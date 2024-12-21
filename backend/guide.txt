@@ -1,0 +1,4 @@
+Run the following commands to download necessary libraries:
+python3 -m venv venv
+source venv/bin/activate
+pip install flask transformers torch
